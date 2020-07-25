@@ -1,6 +1,6 @@
 I got started in AppleSoft &rbrack;&lbrack; BASIC, quickly got sucked into assembly language when my interests turned to interrupt-driven serial IO (because it was the mid-Eighties). I discovered UNIX and got my first serious exposure to C when I went to Drexel. I was the first technical hire at Infonautics back in 1994, where in addition to writing infrastructure, I wrote several versions of the Mac client of our education search engine and content management system. I was also jointly responsible for our first non-toy version of our web-based product, in part because I had probably written more Perl than anyone at the company thanks to spending too much time writing data-cleaning code for everything from dictionaries that came on nine-track tape to satellite-fed data from Reuters.
 
-I also spent a decade writing Clojure. And I've written a lot of Python. These days, most of my work these days happens over on my account at [Sourcehut](https://git.sr.ht/~edwin/). I've been solving problems that happen to line up well with Go.
+I also spent a decade writing Clojure. And I've written a lot of Python. These days, most of my work happens over on [Sourcehut](https://git.sr.ht/~edwin/). I've been solving problems that happen to line up well with Go.
 <!--
 **edw/edw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
